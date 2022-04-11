@@ -1,3 +1,4 @@
 1. Intro
 2. Instalasi dan Konfigurasi
 3. Struktur Folder, Routes & View
+4. Blade Templating Engine
